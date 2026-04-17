@@ -1,5 +1,0 @@
-1001,Ali,Ahmad
-1003,Mohammed,Hassan
-1006,Ameer,Ahed
-1008,Naser,Qasem
-1009,Ali,Ahamd
